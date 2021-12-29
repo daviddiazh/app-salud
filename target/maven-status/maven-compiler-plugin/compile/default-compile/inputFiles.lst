@@ -1,0 +1,11 @@
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/domain/PadecimientoDTOReactivo.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/repository/IpadecimientoReactivoRepository.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/service/IcitasReactivaService.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/domain/citasDTOReactiva.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/service/IpadecimientoReactivoService.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/SpringBajo8Application.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/service/impl/citasReactivaServiceImpl.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/service/impl/ipadecimientoReactivoServiceImpl.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/repository/IcitasReactivaRepository.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/web/citasReactivaResource.java
+/Users/daviddiaz/Desktop/app-citas/appCitas-spring-reactivo-mongoDB/src/main/java/com/springBajo8/springBajo8/web/padecimientoReactivoResource.java

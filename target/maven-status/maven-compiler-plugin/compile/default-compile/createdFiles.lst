@@ -1,0 +1,11 @@
+com/springBajo8/springBajo8/repository/IcitasReactivaRepository.class
+com/springBajo8/springBajo8/SpringBajo8Application.class
+com/springBajo8/springBajo8/web/padecimientoReactivoResource.class
+com/springBajo8/springBajo8/service/impl/citasReactivaServiceImpl.class
+com/springBajo8/springBajo8/service/IcitasReactivaService.class
+com/springBajo8/springBajo8/domain/PadecimientoDTOReactivo.class
+com/springBajo8/springBajo8/web/citasReactivaResource.class
+com/springBajo8/springBajo8/service/impl/ipadecimientoReactivoServiceImpl.class
+com/springBajo8/springBajo8/service/IpadecimientoReactivoService.class
+com/springBajo8/springBajo8/repository/IpadecimientoReactivoRepository.class
+com/springBajo8/springBajo8/domain/citasDTOReactiva.class
