@@ -3,6 +3,7 @@ package com.springBajo8.springBajo8.domain;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.web.bind.annotation.CrossOrigin;
 
 @Document(collection = "padecimientos")
 public class PadecimientoDTOReactivo {
